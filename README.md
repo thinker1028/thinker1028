@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love to working on backend with PHP/Java, also I'm a Javascript fan!
+I love to working on backend, also I'm a Javascript fan!
 <!--
 **thinker1028/thinker1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
